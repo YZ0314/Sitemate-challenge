@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project includes a backend API and a frontend React application. The backend API is built using Node.js and Express framework, and uses SQLite for data storage. The frontend React application interacts with the API and displays data. The project also includes Docker support for easy deployment and running.
+This project includes a backend API and a frontend React application. The backend API is built using Node.js and Express framework, and uses SQLite for data storage. The frontend React application interacts with the API and displays data. 
 ## Features
 
 ### Backend API
