@@ -4,11 +4,16 @@
 
 This project includes a backend API and a frontend React application. The backend API is built using Node.js and Express framework, and uses SQLite for data storage. The frontend React application interacts with the API and displays data. 
 
+
+https://github.com/YZ0314/Sitemate-challenge/assets/92435353/2d363787-b37f-4428-aeb0-d106d03d1ab3
+
+
 ### Bonus point achieved 😃
 - A polished UI ✨(I hope it lives up to expectations)
 - Add unit tests ✅ (playwright)
 - Introduce a data store ✅ (sqlite)
 - Create an interactive client ✅ (React)
+
 
 ## Features
 
@@ -59,7 +64,7 @@ npm install
 ```
 
 3. Run the development server:
-```sh
+```sh 
 npm run build
 npm start
 ```
