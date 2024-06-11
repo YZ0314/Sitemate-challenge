@@ -3,6 +3,13 @@
 ## Project Overview
 
 This project includes a backend API and a frontend React application. The backend API is built using Node.js and Express framework, and uses SQLite for data storage. The frontend React application interacts with the API and displays data. 
+
+### Bonus point achieved 😃
+- A polished UI ✨(I hope it lives up to expectations)
+- Add unit tests ✅ (playwright)
+- Introduce a data store ✅ (sqlite)
+- Create an interactive client ✅ (React)
+
 ## Features
 
 ### Backend API
@@ -67,12 +74,6 @@ cd server
 ```sh
 npx playwright test
 ```
-
-### Bonus point achieved 😃
-- A polished UI ✨(I hope it lives up to expectations)
-- Add unit tests ✅ (playwright)
-- Introduce a data store ✅ (sqlite)
-- Create an interactive client ✅ (React)
 
 
 
